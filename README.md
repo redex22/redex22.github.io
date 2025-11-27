@@ -1,8 +1,8 @@
-# 👋 Hola, soy Gonzalo Ruiz!
+# 👋 Hola, bienvenido/a!
 
 🎓 Estudiante de Licenciatura en Estadistica | 💻 Perfil Tecnológico | 📍 Uruguay  
 
-Bienvenido/a a mi presentación personal. Este sitio funciona como mi **portfolio digital**, donde muestro quién soy, qué estudio y en qué proyectos trabajo.
+Este sitio funciona como mi **portfolio digital**, donde muestro quién soy, qué estudio y en qué proyectos trabajo.
 
 ---
 
